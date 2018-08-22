@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 514fa8628aabb5b4bbd7ecbb2e037e9b
+timeCreated: 1527450401
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unicorn Giggles
+  fontNames:
+  - Unicorn Giggles
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f9cb3730f5962d14ab6cdf944c190d19
+timeCreated: 1527450295
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cloud Calligraphy
+  fontNames:
+  - Cloud Calligraphy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
