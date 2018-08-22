@@ -1,11 +1,11 @@
 # SGM_reexam
 
-● LINK YOUTUBE
+♦ LINK YOUTUBE
 
 ○
 
 
-● REFERENCES
+♦ REFERENCES
 
 ● Material UI
 
@@ -18,7 +18,7 @@
 
 ○ https://www.freeiconspng.com/images/spacecraft-png
 
-○ background- https://www.walldevil.com/minimalistic-wallpaper-hd-744678/
+○ https://www.walldevil.com/minimalistic-wallpaper-hd-744678/
 
 ○ https://opengameart.org/content/camp-fire-animation-for-rpgs-finished
 
